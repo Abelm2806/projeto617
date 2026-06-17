@@ -23,7 +23,31 @@ projeto617/
 └── membro-marcelo.html  → página pessoal do Marcelo
 ```
 ## Equipa
-→ Abel Azevedo
-→ José Brito
-→ Marcelo Gonçalves
+- Abel Azevedo
+- José Brito
+- Marcelo Gonçalves
 
+## Trabalho realizado
+
+- Criação das páginas pessoais dos membros.
+- Construção colaborativa do index.html.
+- Utilização de branches para desenvolvimento.
+- Realização de commits frequentes.
+- Abertura e revisão de Pull Requests.
+- Resolução do conflito do lema da equipa.
+
+## Tecnologias usadas
+
+- HTML
+- CSS fornecido pelo formador
+- Git
+- GitHub
+- GitHub Pages
+
+## Organização do trabalho
+
+- Cada página pessoal foi criada num branch próprio.
+- O index.html foi desenvolvido em várias sessões.
+- Os Pull Requests foram revistos por colegas.
+- Nenhum elemento fez merge do seu próprio Pull Request.
+- O conflito obrigatório foi resolvido antes da entrega final.
