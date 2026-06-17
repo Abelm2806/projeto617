@@ -1,10 +1,13 @@
 # projeto617
 
 Projeto de grupo da UC00617 - Git e GitHub.
+https://github.com/Abelm2806/projeto617.git
 
-Cada equipa constrói um pequeno projeto web com uma página inicial e uma página pessoal por membro.
+## Descrição
+Este projeto foi desenvolvido no âmbito da UC00617. Consiste num pequeno site em HTML criado em grupo com o objetivo de praticar o uso de Git e GitHub.
+Ao longo do projeto foram utilizados branches, commits, Pull Requests e resolução de conflitos para melhorar o trabalho colaborativo e a gestão de versões.
 
-## Estrutura inicial
+## Estrutura 
 
 ```text
 projeto617/
@@ -14,29 +17,37 @@ projeto617/
 ├── enunciado.md      → enunciado geral do trabalho
 ├── tarefas/          → guias de trabalho
 ├── .gitignore        → ficheiros ignorados pelo Git
-└── README.md         → este ficheiro
+├── README.md         → este ficheiro
+├── membro-abel.html  → página pessoal do Abel
+├── membro-jose.html  →  página pessoal do José
+└── membro-marcelo.html  → página pessoal do Marcelo
 ```
+## Equipa
+- Abel Azevedo
+- José Brito
+- Marcelo Gonçalves
 
-## Guias de trabalho
+## Trabalho realizado
 
-```text
-tarefas/
-├── setup.md          → criação do repositório e clone
-├── pagina-pessoal.md → página pessoal de cada formando
-├── index.md          → construção conjunta do index.html
-└── readme-final.md   → atualização final do README
-```
+- Criação das páginas pessoais dos membros.
+- Construção colaborativa do index.html.
+- Utilização de branches para desenvolvimento.
+- Realização de commits frequentes.
+- Abertura e revisão de Pull Requests.
+- Resolução do conflito do lema da equipa.
 
-## Rotina da equipa
+## Tecnologias usadas
 
-1. Antes de criar um branch novo: atualizar o `main` com `git pull`
-2. Antes de cada commit: rever alterações com `git status` e `git diff`
-3. Antes de abrir Pull Request: testar o projeto no browser
-4. Usar mensagens de commit claras, em português
-5. No GitHub: **ninguém faz merge do seu próprio Pull Request**
+- HTML
+- CSS fornecido pelo formador
+- Git
+- GitHub
+- GitHub Pages
 
-## Carga de trabalho
+## Organização do trabalho
 
-- Cada página pessoal deve ter pelo menos 8 commits.
-- O `index.html` é construído em sessões, com Pull Requests pequenos.
-- O README final também é atualizado em várias etapas.
+- Cada página pessoal foi criada num branch próprio.
+- O index.html foi desenvolvido em várias sessões.
+- Os Pull Requests foram revistos por colegas.
+- Nenhum elemento fez merge do seu próprio Pull Request.
+- O conflito obrigatório foi resolvido antes da entrega final.
