@@ -22,5 +22,8 @@ projeto617/
 ├── membro-jose.html  →  página pessoal do José
 └── membro-marcelo.html  → página pessoal do Marcelo
 ```
-
+## Equipa
+→ Abel Azevedo
+→ José Brito
+→ Marcelo Gonçalves
 
