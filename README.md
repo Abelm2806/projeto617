@@ -1,7 +1,8 @@
 # projeto617
 
 Projeto de grupo da UC00617 - Git e GitHub.
-https://github.com/Abelm2806/projeto617.git
+
+[Ver projeto](https://abelm2806.github.io/projeto617/)
 
 ## Descrição
 Este projeto foi desenvolvido no âmbito da UC00617. Consiste num pequeno site em HTML criado em grupo com o objetivo de praticar o uso de Git e GitHub.
